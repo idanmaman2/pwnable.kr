@@ -1,5 +1,4 @@
-8044548c r __ksymtab_commit_creds
-8003f56c T commit_creds
+
 
 ```
 #include <unistd.h>
